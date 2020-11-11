@@ -1,0 +1,29 @@
+{
+  "name": "jogomemoria",
+  "version": "1.0.0",
+  "description": "Jogo da memória",
+  "main": "index.html",
+  "scripts": {
+    "dev": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaioLemec/jogomemoria.git"
+  },
+  "keywords": [
+    "jogo",
+    "memoria",
+    "jogo-da-memoria",
+    "memory",
+    "game"
+  ],
+  "author": "Caio Lemec",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/CaioLemec/jogomemoria/issues"
+  },
+  "homepage": "https://github.com/CaioLemec/jogomemoria#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
